@@ -1,0 +1,17 @@
+# Unity
+/RhythmPassport_New/[Ll]ibrary/
+/RhythmPassport_New/[Tt]emp/
+/RhythmPassport_New/[Oo]bj/
+/RhythmPassport_New/[Bb]uild/
+/RhythmPassport_New/[Bb]uilds/
+/RhythmPassport_New/[Ll]ogs/
+/RhythmPassport_New/[Uu]ser[Ss]ettings/
+/RhythmPassport_New/[Mm]emoryCaptures/
+/RhythmPassport_New/[Rr]ecordings/
+
+# IDE
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
